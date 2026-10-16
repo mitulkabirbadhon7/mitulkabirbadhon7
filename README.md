@@ -63,16 +63,14 @@ Currently exploring deeper into **backend engineering, system design, and modern
 ## ⚡ What I Build
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   🌐 Full Stack Applications                        │
-│   ⚙️  Backend & REST APIs                           │
-│   🗄️  Database-driven Systems                       │
-│   🤖 AI-powered Applications                         │
-│   🎨 Modern & Responsive Interfaces                  │
-│   🧩 Scalable Software Architecture                 │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+┌────────────────────────────────────────┐
+│ ◆ Full Stack Applications              │
+│ ◆ Backend & REST APIs                  │
+│ ◆ Database-driven Systems              │
+│ ◆ AI-powered Applications              │
+│ ◆ Modern & Responsive Interfaces       │
+│ ◆ Scalable Software Architecture       │
+└────────────────────────────────────────┘
 ```
 
 ---
